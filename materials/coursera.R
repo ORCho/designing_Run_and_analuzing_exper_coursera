@@ -1,7 +1,7 @@
 ## Interaction Design Specialization, Course 7
 ## Designing, Running, and Analyzing Experiments
 ##
-## Instructor: 
+## Instructor: chloe
 ##
 ##   Jacob O. Wobbrock, Ph.D.
 ##   The Information School
